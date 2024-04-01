@@ -11,3 +11,6 @@ Want to know time for 3 random songs in the list
 
 # Требуемые пакеты
 
+random
+math
+datetime
